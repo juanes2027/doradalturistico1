@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.juanes.doradalturistico1.LugarUnoFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/rioclaro"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:background="@color/white"
+        android:textColor="@color/green"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lug1"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:background="@color/white"
+        android:textColor="@color/green"/>
+
+    <ImageView
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/lugrioclaro"/>
+
+</LinearLayout>

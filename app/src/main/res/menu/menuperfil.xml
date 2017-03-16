@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mMain"
+        android:title="@string/Mai"/>
+    <item
+        android:id="@+id/mHoteles"
+        android:title="@string/Hoteles"/>
+    <item
+        android:id="@+id/mRestaurantes"
+        android:title="@string/Restaurantes" />
+    <item
+        android:id="@+id/mLugares"
+        android:title="@string/Lugares"/>
+    <item
+        android:id="@+id/mLogOut"
+        android:title="@string/salir" />
+
+</menu>

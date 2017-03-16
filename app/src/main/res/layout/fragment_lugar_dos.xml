@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.juanes.doradalturistico1.LugarDosFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cascada"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:background="@color/white"
+        android:textColor="@color/green"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/lug3"
+        android:textSize="18dp"
+        android:gravity="center"
+        android:background="@color/white"
+        android:textColor="@color/green" />
+    <ImageView
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:src="@drawable/lugcascada"/>
+
+</LinearLayout>

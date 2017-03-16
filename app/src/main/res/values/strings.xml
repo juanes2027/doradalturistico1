@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Doradal Turistica </string>
+    <string name="titulo">Doradal Turistica</string>
+    <string name="username">Nombre de Usuario</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="usuario">Nombre de Usuario</string>
+    <string name="ingresar">Iniciar Sesión </string>
+    <string name="registrarse">Registrarse</string>
+    <string name="Perfil">Mi Perfil</string>
+    <string name="salir">Salir</string>
+    <string name="Rusuario">Nombre de Usuario</string>
+    <string name="Rcontrasena">Ingrese contraseña</string>
+    <string name="Rrepcontrasena">Repita la contraseña</string>
+    <string name="correo">Correo electronico</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="Registrarse">Registrarse</string>
+    <string name="Username">Nombre de usuario:</string>
+    <string name="Contra">Contraseña:</string>
+    <string name="mail">Correo:</string>
+    <string name="Volver">Volver</string>
+    <string name="Hoteles">Hoteles</string>
+    <string name="Atractivos">Atractivos</string>
+    <string name="Restaurantes">Restaurantes</string>
+    <string name="Lugares">Lugares</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_hotel">Hoteles</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Inicio">Inicio</string>
+    <string name="title_activity_lugares">Lugares</string>
+    <string name="title_activity_restaurantes">Restaurantes</string>
+    <string name="Hotelgitano">Hotel Gitano</string>
+    <string name="Hotelgitano1">Sus precios oscilan entre los 120mil y 330mil pesos colombianos, la noche, segun la temporada</string>
+    <string name="hotelyahaya1">Sus precios oscilan entre los 100mil y 300mil pesos colombianos, la noche, segun la temporada</string>
+    <string name="Hotelyahaya">Hotel Yahaya</string>
+    <string name="hotelmediterraneo1">Sus precios oscilan entre los 150mil y 400mil pesos colombianos, la noche, segun la temporada</string>
+    <string name="Hotelmediterraneo">Hotel Mediterraneo</string>
+    <string name="cascada">Cascada San Juan</string>
+    <string name="parquetematico">Parque tematico hacienda Napoles</string>
+    <string name="rioclaro">Reserva Rio Claro</string>
+    <string name="restranche1">Sus precios oscilan entre los 10mil y 25mil pesos colombianos</string>
+    <string name="Restaranche">Restaurante Rancherito</string>
+    <string name="restasado1">Sus precios oscilan entre los 20mil y 60mil pesos colombianos</string>
+    <string name="restasado">Restaurante Asados del camino</string>
+    <string name="restdepaso1">Sus precios oscilan entre los 15mil y 40mil pesos colombianos </string>
+    <string name="Restdepaso">Restaurante De Paso</string>
+    <string name="bchdbfh"> DORADAL es un corregimiento de Antioquia que esta ubicado en el magdalena medio, cuenta con hermosos lugares turísticos,
+        lugares naturales,En Doradal podemos encontrar diversidad de flora y fauna, muchas especies silvestres, entre otros
+        Doradal también cuenta con diversos sitios turísticos de gran importancia para la comunidad, ya que son una forma de
+        economía que atribuye a la elaboración y creación de lugares mas atractivos
+        en los cuales se puedan mostrar diversos monumentos de las especies mas habitadas en nuestro corregimiento.</string>
+    <string name="create_account">Crear cuenta</string>
+    <string name="Repeti">Repetir contraseña</string>
+    <string name="contra">Contraseña</string>
+    <string name="lug1">La entrada a esta reserva vale 10mil pesos colombianos </string>
+    <string name="lug2">Sus precios de pasaporte oscilan entre los 20mil y 60mil pesos colombianos</string>
+    <string name="lug3">Es gratuita y queda a tan solo 20 minutos del pueblo </string>
+    <string name="Mai">Main</string>
+</resources>
